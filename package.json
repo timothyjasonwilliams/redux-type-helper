@@ -1,0 +1,20 @@
+{
+  "name": "redux-type-helper",
+  "version": "1.0.0",
+  "description": "Redux Typescript Helpers for the average developer.",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timothyjasonwilliams/redux-type-helper.git"
+  },
+  "keywords": [
+    "typescript",
+    "redux"
+  ],
+  "author": "Timothy Jason Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timothyjasonwilliams/redux-type-helper/issues"
+  },
+  "homepage": "https://github.com/timothyjasonwilliams/redux-type-helper#readme"
+}
